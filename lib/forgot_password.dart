@@ -37,7 +37,7 @@ class ForgotPassword extends StatelessWidget {
                         color: Colors.black.withOpacity(0.5),
                       ),
                     ),
-                    cursorColor: Colors.black,
+                    cursorColor: Colors.white,
                   ),
                 ),
               ),
